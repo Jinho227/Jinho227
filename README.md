@@ -2,7 +2,12 @@
 I'm a game developer using Unity.
 I like indie games and I'm trying to develop indie games.
 
+### SKILLS
 
+## Languages
+Python, C++/C, C#, HTML5/CSS
+## Engine
+Unity
 
 <!--
 **Jinho227/Jinho227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
