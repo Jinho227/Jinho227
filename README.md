@@ -1,12 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 I'm a game developer using Unity.
 I like indie games and I'm trying to develop indie games.
 
-### SKILLS
+## SKILLS
 
-## Languages
+### Languages
 Python, C++/C, C#, HTML5/CSS
-## Engine
+### Engine
 Unity
 
 <!--
