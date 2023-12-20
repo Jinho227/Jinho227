@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a game developer using Unity.
+I like indie games and I'm trying to develop indie games.
+
+
 
 <!--
 **Jinho227/Jinho227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
